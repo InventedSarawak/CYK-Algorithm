@@ -1,7 +1,11 @@
 {
     "files.associations": {
+        "*.ejs": "html",
         "*.c": "c",
         "stdio.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "grammar.h": "c",
+        "utils.h": "c",
+        "string": "c"
     }
 }
