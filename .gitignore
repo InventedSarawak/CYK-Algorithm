@@ -1,0 +1,28 @@
+# Object files and binaries
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Build directories
+bin/
+core/
+obj/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency files
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Project specific backup files
+*.bak
